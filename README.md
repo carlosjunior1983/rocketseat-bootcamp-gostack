@@ -13,8 +13,8 @@
 
 ---
 
-Início: Junho/2020
-Término: em Treinamento
+Início: Junho/2020<br>
+Término: em Treinamento<br><br>
 
-www.carlosjunior.com.br
+www.carlosjunior.com.br <br>
 Fonte Layout: https://github.com/Rocketseat/bootcamp-gostack-desafios
