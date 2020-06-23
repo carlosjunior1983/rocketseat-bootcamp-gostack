@@ -6,7 +6,7 @@
 
 ## Desafios Realizados
 
-- [Desafio: Conceitos do Node.js](https://https://github.com/carlosjunior1983/conceitos-nodejs)
+- [Desafio: Conceitos do Node.js](https://github.com/carlosjunior1983/conceitos-nodejs)
 
 
 ## Portifólios de Códigos Realizados
