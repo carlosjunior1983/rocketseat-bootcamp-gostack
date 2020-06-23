@@ -6,7 +6,7 @@
 
 ## Desafios Realizados
 
-- [01 - Planejando meus estudos](https://github.com/carlosjunior1983/rocketseat-bootcamp-gostack/tree/master/desafio-01)
+- [Desafio: Conceitos do Node.js](https://https://github.com/carlosjunior1983/conceitos-nodejs)
 
 
 ## Portifólios de Códigos Realizados
